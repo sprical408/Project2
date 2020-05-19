@@ -88,6 +88,7 @@ void datecmp(){
     int mon_2 = time2.tm_mon;
     int day_2 = time2.tm_mday;
 
+
     printf("date compare\n");
 
     if(mon_1>mon_2){
